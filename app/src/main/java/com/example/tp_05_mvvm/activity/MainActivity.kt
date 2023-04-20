@@ -3,6 +3,7 @@ package com.example.tp_05_mvvm.activity // ktlint-disable package-name
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import com.example.tp_05_mvvm.R
 import com.example.tp_05_mvvm.databinding.ActivityMainBinding
 import com.example.tp_05_mvvm.mvvm.model.MainCounterModel
 import com.example.tp_05_mvvm.mvvm.viewmodel.MainCounterViewModel
