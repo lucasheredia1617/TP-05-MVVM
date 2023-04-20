@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">TP-05-MVVM</string>
+    <string name="app_name">TP-05</string>
+
+    <string name="title">MVVM Contador</string>
+    <string name="input_hint">Inserte un número</string>
+    <string name="increment_button_text">Incrementar</string>
+    <string name="decrement_button_text">Decrementar</string>
+    <string name="reset_button">Resetear</string>
+    <string name="reset_button_text">El contador ha sido reseteado</string>
 </resources>
